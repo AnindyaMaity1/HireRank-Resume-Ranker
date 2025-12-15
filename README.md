@@ -8,8 +8,7 @@ The app is built as a small SaaS product: users can analyze up to **10 resumes f
 
 ## 🚀 Live Demo
 
-**Live URL:** https://your-vercel-project-url.vercel.app  
-_(Replace this with your actual Vercel deployment URL.)_
+**Live URL:** [https://your-vercel-project-url.vercel.app](https://hirerankhr.vercel.app/)
 
 ---
 
